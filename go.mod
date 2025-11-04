@@ -70,7 +70,3 @@ require (
 	modernc.org/memory v1.11.0 // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
 )
-
-replace github.com/hpcloud/tail => github.com/nxadm/tail v1.4.11
-
-replace gopkg.in/fsnotify.v1 => github.com/fsnotify/fsnotify v1.7.0
